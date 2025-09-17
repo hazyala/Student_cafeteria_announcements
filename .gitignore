@@ -1,6 +1,9 @@
 #가상 환경 폴더
 venv/
 
+#임시토근 발급 파일
+get_token.py
+
 #카카오 토큰 파일
 kakao_token.json
 
