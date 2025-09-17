@@ -1,0 +1,8 @@
+#가상 환경 폴더
+venv/
+
+#카카오 토큰 파일
+kakao_token.json
+
+#VS Code 설정 폴더 
+.vscode/
